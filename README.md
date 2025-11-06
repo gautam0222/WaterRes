@@ -45,7 +45,7 @@ This project supports better **planning, decision support and water resource opt
 | K-Means Clustering | Unsupervised | Reveals reservoir group behavior |
 
 **Libraries used:**  
-`pandas`, `numpy`, `sklearn`, `xgboost`, `tensorflow`, `matplotlib`, `seaborn`, `streamlit`
+`pandas`, `numpy`, `sklearn`, `xgboost`, `tensorflow`, `matplotlib`, `seaborn`
 
 ---
 
